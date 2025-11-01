@@ -1,5 +1,10 @@
 # Changes
 
+## [Unreleased]
+
+## [1.3.5] - 2025-11-01
+- Maintenance: update build and compatibility for IntelliJ Platform 2024.2.4
+
 ## [1.3.4]
 
 Fixed compat with 2024.2
@@ -28,6 +33,7 @@ Fixed NPE when using 2023.1
 ### Changed
 - Reduced resuse of naming policy
 
-[Unreleased]: https://github.com/holgerbrandl/pasteimages/compare/v1.2.11...HEAD
+[Unreleased]: https://github.com/holgerbrandl/pasteimages/compare/v1.3.5...HEAD
+[1.3.5]: https://github.com/holgerbrandl/pasteimages/compare/v1.3.4...v1.3.5
 [1.2.11]: https://github.com/holgerbrandl/pasteimages/compare/v1.2.5...v1.2.11
 [1.2.5]: https://github.com/holgerbrandl/pasteimages/commits/v1.2.5
